@@ -1,3 +1,44 @@
+# Portfolio Website
+
+This is a portfolio website showcasing my skills, projects, education, personal details, roles and responsibilities, certificates, and contact information. It is built using React.js and styled with CSS, incorporating modern design principles such as glassmorphism and interactivity.
+
+## Features
+
+- **Header and Footer**: Consistent header and footer design across all pages for easy navigation.
+- **Sections**: Organized into different sections for About, Portfolio, Education, Skills, Personal Details, Roles and Responsibilities, Certificates, and Contact.
+- **Glassmorphism Effect**: Styling inspired by glassmorphism for a modern and sleek look.
+- **Interactive Elements**: Hover effects, glowing animations, and transitions for better user experience.
+- **Scroll-to-Top Button**: Convenient button to scroll back to the top of the page.
+- **Responsive Design**: Ensures compatibility and optimal viewing experience across various devices.
+
+## Technologies Used
+
+- React.js
+- CSS
+- Typescript
+
+## Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the development server.
+5. Open `http://localhost:3000` in your web browser to view the website.
+
+## Credits
+
+- **Author**: Kishor Vinod
+- **GitHub**: [Your GitHub Profile](https://github.com/kishorvinod)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
